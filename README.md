@@ -18,6 +18,12 @@ curl -fsSL https://raw.githubusercontent.com/eladcandroid/claude-code-voice/main
 - Xcode Command Line Tools (`xcode-select --install`)
 - Claude Code with `/voice` support
 
+## Demo
+
+<p align="center">
+  <img src="cc-voice.gif" alt="Claude Code Voice Demo" width="600">
+</p>
+
 ## Usage
 
 After install, restart Claude Code:
