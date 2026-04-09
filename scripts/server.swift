@@ -25,6 +25,7 @@ let localeMap: [String: String] = [
     "it": "it-IT", "italian": "it-IT", "italiano": "it-IT",
     "ru": "ru-RU", "russian": "ru-RU", "русский": "ru-RU",
     "zh": "zh-CN", "chinese": "zh-CN",
+    "zh-hk": "zh-HK", "cantonese": "zh-HK", "粵語": "zh-HK", "广东话": "zh-HK",
     "ar": "ar-SA", "arabic": "ar-SA",
     "hi": "hi-IN", "hindi": "hi-IN",
     "id": "id-ID", "indonesian": "id-ID",

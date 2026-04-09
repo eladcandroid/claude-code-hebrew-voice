@@ -66,6 +66,7 @@ Type `/config` in Claude Code to change the language. The voice server picks it 
 | **Hebrew** | `he` | Apple STT |
 | **Arabic** | `ar` | Apple STT |
 | **Chinese** | `zh` | Apple STT |
+| **Cantonese (Hong Kong)** | `zh-hk` | Apple STT |
 
 Any language supported by Apple's `SFSpeechRecognizer` works — the 20 natively supported languages are proxied to Anthropic's server for best quality.
 
